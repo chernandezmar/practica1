@@ -1,3 +1,5 @@
 Nombre: Carlos H
 Edad: 40
 Correo Electronico: carlos.hernandezmar@anahuac.mx
+telefono: 888888888
+hola
