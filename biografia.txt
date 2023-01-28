@@ -1,5 +1,5 @@
-Nombre: Carlos H
+Nombre: Carlos Hernandez Martinez
 Edad: 40
 Correo Electronico: carlos.hernandezmar@anahuac.mx
-telefono: 888888888
-hola
+RFC: hemc820225
+hobbie: programar
